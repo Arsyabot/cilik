@@ -38,7 +38,7 @@ logging.getLogger("pyrogram").setLevel(logging.INFO)
 logging.getLogger('ptbcontrib.postgres_persistence.postgrespersistence').setLevel(logging.WARNING)
 
 LOGGER = logging.getLogger('[GreyCilik]')
-LOGGER.info("Cilik is starting. | An Cilik Project Parts. | Licensed under GPLv3.")
+LOGGER.info("ALBY is starting. | An ALBY Project Parts. | Licensed under GPLv3.")
 LOGGER.info("Not affiliated to other anime or Villain in any way whatsoever.")
 LOGGER.info("Project maintained by: github.com/grey423 (t.me/greyyvbss)")
 
