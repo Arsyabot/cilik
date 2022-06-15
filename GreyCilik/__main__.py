@@ -442,8 +442,8 @@ def cilik_about_callback(update, context):
             reply_markup=InlineKeyboardMarkup(
                 [
                  [
-                    InlineKeyboardButton(text="Support", url="t.me/CilikSupport"),
-                    InlineKeyboardButton(text="Updates", url="https://t.me/CilikProject"),
+                    InlineKeyboardButton(text="Support", url="t.me/ruangdiskusikami"),
+                    InlineKeyboardButton(text="Updates", url="https://t.me/ruangprojects"),
                  ],
                  [
                     InlineKeyboardButton(text="Go Back", callback_data="cilik_"),
@@ -468,6 +468,9 @@ def cilik_about_callback(update, context):
                  [
                     InlineKeyboardButton(text="Feri", url="https://github.com/FeriEXP"),
                     InlineKeyboardButton(text="riz-ex", url="https://github.com/riz-ex"),
+                 ],
+                 [
+                    InlineKeyboardButton(text="Grey", url="https://github.com/grey423"),
                  ],
                  [
                     InlineKeyboardButton(text="Anime Kaizoku", url="https://github.com/animekaizoku"),
